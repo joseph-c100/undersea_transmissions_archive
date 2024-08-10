@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'Undersea Transmissions Archive'
 theme = "blank-local"
 contentDir = "content"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
