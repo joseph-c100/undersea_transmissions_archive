@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://josephc.net/posts/entry001/entry001/</loc>
+    <loc>/posts/entry001/entry001/</loc>
     <lastmod>2024-08-11T09:29:21+01:00</lastmod>
   </url><url>
-    <loc>https://josephc.net/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-08-11T09:29:21+01:00</lastmod>
   </url><url>
-    <loc>https://josephc.net/</loc>
+    <loc>/</loc>
     <lastmod>2024-08-11T09:29:21+01:00</lastmod>
   </url><url>
-    <loc>https://josephc.net/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://josephc.net/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

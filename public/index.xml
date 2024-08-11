@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undersea Transmissions Archive</title>
-    <link>https://josephc.net/</link>
+    <link>/</link>
     <description>Recent content on Undersea Transmissions Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2024 09:29:21 +0100</lastBuildDate><atom:link href="https://josephc.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 09:29:21 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entry001</title>
-      <link>https://josephc.net/posts/entry001/entry001/</link>
+      <link>/posts/entry001/entry001/</link>
       <pubDate>Sun, 11 Aug 2024 09:29:21 +0100</pubDate>
       
-      <guid>https://josephc.net/posts/entry001/entry001/</guid>
+      <guid>/posts/entry001/entry001/</guid>
       <description></description>
     </item>
     
