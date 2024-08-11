@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Undersea Transmissions Archive'
 theme = "blank-local"
 contentDir = "content"
+relativeURLs = true
+
+
 
 [markup]
   [markup.goldmark]
