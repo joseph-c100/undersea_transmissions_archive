@@ -1,4 +1,4 @@
-baseURL = 'https://josephc.net/undersea_transmissions_archive/'
+baseURL = 'https://josephc.net'
 languageCode = 'en-us'
 title = 'Undersea Transmissions Archive'
 theme = "blank-local"
