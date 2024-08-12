@@ -13,7 +13,13 @@ header {
   font-weight: 600;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+}
+
 .content-container {
+  max-width: 600px;
   text-align: center;
 }
 
