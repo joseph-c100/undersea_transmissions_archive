@@ -19,8 +19,7 @@ header {
 }
 
 .content-container {
-  max-width: 600px;
-  text-align: center;
+  max-width: 500px;
 }
 
 h1 {
@@ -33,6 +32,10 @@ a {
   text-decoration: none;
   color: black;
   border-bottom: 1px solid black;
+}
+
+p {
+  font-size: 15px;
 }
 
 img {

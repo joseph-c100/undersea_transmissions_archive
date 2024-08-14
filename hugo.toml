@@ -5,7 +5,8 @@ theme = "blank-local"
 contentDir = "content"
 relativeURLs = true
 
-
+[markup.goldmark.renderer]
+unsafe = true
 
 [markup]
   [markup.goldmark]

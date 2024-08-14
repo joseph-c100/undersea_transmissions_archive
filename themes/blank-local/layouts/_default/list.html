@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main>
-  {{ if or .Title .Content }}
+  {{ if or .Title .Content .Image}}
   <div>
     {{ with .Title }}
     <h1>{{ . }}</h1>
