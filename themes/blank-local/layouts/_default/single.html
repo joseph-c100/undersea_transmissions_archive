@@ -5,7 +5,13 @@
 			<time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</time>
 			<div class="content">
 				{{ .Content }}
+				{{ with .Params.image }}
+				<img src="{{ . | relURL }}" alt="{{ $.Title }}">
+			  	{{ end }}
 			</div>
+
+
+
 			{{ with .Params.tags }}
 			<div>
 				<ul id="tags">

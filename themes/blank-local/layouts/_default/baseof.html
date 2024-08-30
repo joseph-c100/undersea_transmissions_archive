@@ -12,12 +12,16 @@
 	{{- end }}
 </head>
 <body>
-	<div class="container">
-		<div class="content-container">
-			{{ partial "header" . }}
-			{{ block "main" . }}{{ end }}
-			{{ partial "footer" . }}
+	<div class="outer-container">
+		{{ partial "header" . }}
+		<div class="container">
+			<div class="content-container">
+				{{ block "main" . }}{{ end }}
+			</div>
 		</div>
+		{{ partial "footer" . }}
 	</div>
+	
+
 </body>
 </html>
