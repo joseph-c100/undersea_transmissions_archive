@@ -6,56 +6,97 @@
     <description>Recent content on Undersea Transmissions Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2024 14:27:39 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 11:08:14 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entry010</title>
+      <link>/posts/entry010/</link>
+      <pubDate>Sun, 22 Sep 2024 11:08:14 +0100</pubDate>
+      
+      <guid>/posts/entry010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entry009</title>
+      <link>/posts/entry009/</link>
+      <pubDate>Sun, 22 Sep 2024 11:07:43 +0100</pubDate>
+      
+      <guid>/posts/entry009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entry008</title>
+      <link>/posts/entry008/</link>
+      <pubDate>Sun, 22 Sep 2024 11:05:19 +0100</pubDate>
+      
+      <guid>/posts/entry008/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Entry007</title>
       <link>/posts/entry007/</link>
       <pubDate>Fri, 30 Aug 2024 14:27:39 +0100</pubDate>
+      
       <guid>/posts/entry007/</guid>
       <description>Verkehrskarte des Atlantischen Ozeans</description>
     </item>
+    
     <item>
       <title>Entry006</title>
       <link>/posts/entry006/</link>
       <pubDate>Fri, 16 Aug 2024 15:10:17 +0100</pubDate>
+      
       <guid>/posts/entry006/</guid>
-      <description>Development of South Atlantic 3/West Africa Submarine Cable/South Africa Far East (SAT-3/WASC/SAFE) undersea high-speed, fibre-optic cable system.&#xA;manypossibilities.net</description>
+      <description>Development of South Atlantic 3/West Africa Submarine Cable/South Africa Far East (SAT-3/WASC/SAFE) undersea high-speed, fibre-optic cable system.
+manypossibilities.net</description>
     </item>
+    
     <item>
       <title>Entry005</title>
       <link>/posts/entry005/</link>
       <pubDate>Mon, 12 Aug 2024 15:34:19 +0100</pubDate>
+      
       <guid>/posts/entry005/</guid>
       <description>Security threats to undersea communications cables and infrastructure – consequences for the EU Think Tank - European Parliament</description>
     </item>
+    
     <item>
       <title>Entry004</title>
       <link>/posts/entry004/</link>
       <pubDate>Sun, 11 Aug 2024 14:13:05 +0100</pubDate>
+      
       <guid>/posts/entry004/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Entry003</title>
       <link>/posts/entry003/</link>
       <pubDate>Sun, 11 Aug 2024 14:13:00 +0100</pubDate>
+      
       <guid>/posts/entry003/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Entry002</title>
       <link>/posts/entry002/</link>
       <pubDate>Sun, 11 Aug 2024 14:12:33 +0100</pubDate>
+      
       <guid>/posts/entry002/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Entry001</title>
       <link>/posts/entry001/entry001/</link>
       <pubDate>Sun, 11 Aug 2024 09:29:21 +0100</pubDate>
+      
       <guid>/posts/entry001/entry001/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
